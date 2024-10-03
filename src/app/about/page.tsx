@@ -1,10 +1,9 @@
-import Home from '../page'
+
 import React from 'react'
 
 const About = () => {
   return (
     <div>
-      {/* <Home/> */}
       About
     </div>
   )

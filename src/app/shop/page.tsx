@@ -1,4 +1,4 @@
-import cake from "../../../public/images/cake.jpg"
+
 import Card from "../Card/Card"
 
 const Shop = () => {
